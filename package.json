@@ -1,0 +1,16 @@
+{
+  "title": "RandomWords Password Generator",
+  "name": "ffpassgen",
+  "version": "1.0.0",
+  "description": "Using a single Password, this addon generates a unique password for each website you need one.",
+  "main": "index.js",
+  "author": "Ronny Polley",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
